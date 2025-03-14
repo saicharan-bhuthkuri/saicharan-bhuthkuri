@@ -31,20 +31,6 @@ I believe in writing **clean, efficient, and maintainable code**, and collaborat
 | 10 | **Portfolio Website**                    | [Visit](https://sai-charan-portfolio.netlify.app/)         | [Code](https://github.com/saicharan-bhuthkuri/Portfolio)       | My personal developer portfolio.                  |  
 
 ---
-
-## 📁 Repository Highlights  
-
-- [SaiOrganix](https://github.com/saicharan-bhuthkuri/SaiOrganix) — E-commerce frontend template.  
-- [Termux-Setup](https://github.com/saicharan-bhuthkuri/Termux-Setup) — Lua automation for Termux environments.  
-- [Miaow-Trinity](https://github.com/saicharan-bhuthkuri/Miaow-Trinity) — AI-powered harmful content detection.  
-- [Website-SaiElite](https://github.com/saicharan-bhuthkuri/Website-SaiElite) — Landing page template (HTML/CSS/JS).  
-- [Radial-Menu](https://github.com/saicharan-bhuthkuri/Radial-Menu) — CSS animated radial menu.  
-- [Python-Lab](https://github.com/saicharan-bhuthkuri/Python-Lab) — R22 Python lab programs.  
-- [PPS-Lab](https://github.com/saicharan-bhuthkuri/PPS-Lab) — R22 C programming lab programs.  
-- [Impress](https://github.com/saicharan-bhuthkuri/Impress) — Interactive JavaScript mini-project.  
-
----
-
 ## 💡 Tech Stack  
 
 - **Languages:** Python, JavaScript (ES6+), C, Lua, HTML5, CSS3  
