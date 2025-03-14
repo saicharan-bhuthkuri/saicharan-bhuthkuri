@@ -47,6 +47,6 @@ I believe in writing **clean, efficient, and maintainable code**, and collaborat
 
 - **Portfolio:** [sai-charan-portfolio.netlify.app](https://sai-charan-portfolio.netlify.app/)  
 - **GitHub:** [saicharan-bhuthkuri](https://github.com/saicharan-bhuthkuri)
-- **LinkedIn** .[saicharan-bhuthkuri](https://www.linkedin.com/in/saicharan-bhuthkuri)
+- **LinkedIn:** .[saicharan-bhuthkuri](https://www.linkedin.com/in/saicharan-bhuthkuri)
 - **Email:** [saicharanbhuthkuri468@gmail.com](mailto:saicharanbhuthkuri468@gmail.com)  
 
