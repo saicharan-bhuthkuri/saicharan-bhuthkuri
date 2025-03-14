@@ -41,20 +41,20 @@ I’m **Saicharan Bhuthkuri**, a passionate **Software Engineer** and **AI & ML 
 - **[Impress](https://github.com/saicharanbhuthkuri/Impress)** — Interactive JavaScript mini-project.  
 
 ---
-
 ## 💡 Tech Stack
 
-- **Languages:** Python, JavaScript, C, Lua  
-- **Frontend:** HTML, CSS, JavaScript (ES6+), React.js  
-- **Backend:** Node.js (Express.js)  
-- **Database:** MongoDB, MySQL  
-- **Other Tools:** Git, GitHub, Termux, Shell, Netlify, Vercel  
-- **Concepts:** System Design, Cloud, AI/ML, Automation, UI/UX  
-
+- **Languages:** Python, JavaScript (ES6+), C, Lua, HTML5, CSS3  
+- **Frontend Development:** HTML5, CSS3, JavaScript, Bootstrap, CSS Animations, Responsive Design  
+- **Backend & Scripting:** Node.js (basic), Express.js (optional for REST APIs), Lua (Termux automation), Shell Scripting  
+- **Databases:** MySQL (basic), MongoDB (optional for future scaling)  
+- **Automation & DevOps:** Termux, Git, GitHub, Netlify, Vercel  
+- **Cloud & Hosting:** Netlify (static sites), Vercel (frontend/backends), Render (future backend deployment)  
+- **Tools & Platforms:** VSCode, Postman (API testing), GitHub, Canva (designs), Figma (UI/UX prototyping)  
+- **Core Concepts:** Web Development, Responsive UI/UX, Software Development Principles, Basic AI/ML (learning), System Design (learning)
 ---
 
 ## 🌐 Connect with Me
 
 - **Portfolio:** [sai-charan-portfolio.netlify.app](https://sai-charan-portfolio.netlify.app/)  
-- **GitHub:** [github.com/saicharanbhuthkuri](https://github.com/saicharanbhuthkuri)  
+- **GitHub:** [github.com/saicharan-bhuthkuri](https://github.com/saicharan-bhuthkuri)  
 - **Email:** [saicharanbhuthkuri468@gmail.com](mailto:saicharanbhuthkuri468@gmail.com)  
