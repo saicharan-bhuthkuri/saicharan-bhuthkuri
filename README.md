@@ -20,8 +20,7 @@ I believe in writing **clean, efficient, and maintainable code**, and collaborat
 | #  | Project Name                             | Live Demo                                                   | Code Repository                                               | Description                                        |  
 |----|------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------|  
 | 1  | **Portfolio Website**                    | [Visit](https://sai-charan-portfolio.netlify.app/)         | [Code](https://github.com/saicharan-bhuthkuri/Portfolio)       | My personal developer portfolio.                  |  
-| 2 | **Saivortex Website**                    | [Visit](https://saivortex.netlify.app/)         | [Code](https://github.com/saicharan-bhuthkuri/saivortex)       | official website.                  |  
-
+| 2 | **Saivortex Website**                    | [Visit](https://saivortex.netlify.app/)         | [Code](https://github.com/saicharan-bhuthkuri/saivortex)       | official website.                                             |
 | 3  | **Sai Organix**                          | [Visit](https://saiorganix.netlify.app/)                   | [Code](https://github.com/saicharan-bhuthkuri/SaiOrganix)      | Organic products e-commerce site.                 |  
 | 4  | **Sai Wishes**                           | [Visit](https://sai-wishes.netlify.app/)                   | [Code](https://github.com/saicharan-bhuthkuri/Wishes)          | Personalized greeting card generator.             |  
 | 5  | **Sai Elite**                            | [Visit](https://saielite.netlify.app/)                     | [Code](https://github.com/saicharan-bhuthkuri/Website-SaiElite)| Modern brand landing page.                        |  
