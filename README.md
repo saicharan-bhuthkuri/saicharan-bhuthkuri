@@ -1,50 +1,93 @@
-# Saicharan Bhuthkuri | Software Engineer  
+<div align="center">Hi 👋, I'm Saicharan Bhuthkuri
 
-## 👋 About Me  
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%26+ML+Undergraduate;Founder+of+SaiVortex;Full-Stack+Developer;Building+Scalable+Software+Solutions" /><br><img src="https://komarev.com/ghpvc/?username=saicharan-bhuthkuri&label=Profile+Views&color=0e75b6&style=for-the-badge"/></div>---
 
-I’m **Saicharan Bhuthkuri**, a passionate **Software Engineer** and **AI & ML undergraduate**.  
-Founder of **SaiVortex**, focused on scalable and intelligent software solutions.  
-I work on **AI, Machine Learning, Full-Stack Development, DevOps, and Cloud Technologies**.  
-I believe in writing **clean, efficient, and maintainable code**, and collaborating on **open-source and real-world projects**.  
+🚀 About Me
 
-- 🚀 **Founder** of **SaiVortex** — Building scalable software solutions.  
-- 🎓 **B.Tech AI & ML** student.  
-- 💡 Passionate about **System Design, Backend, AI/ML, and DevOps**.  
-- 🤝 Open for **collaborations, freelance, and innovative projects**.  
-- 📫 Reach me: [saicharanbhuthkuri468@gmail.com](mailto:saicharanbhuthkuri468@gmail.com)
-- 📫 Reach me for Work: [saivortex.dev@gmail.com](mailto:saivortex@gmail.com)
+Name: Saicharan Bhuthkuri
+Role: Software Engineer
+Education: B.Tech AI & ML
+Company: SaiVortex (Founder)
+Location: India
 
----
-## 🔥 Key Projects  
+Interests:
+  - Software Engineering
+  - Artificial Intelligence
+  - Machine Learning
+  - Backend Development
+  - System Design
+  - Cloud Computing
 
-| #  | Project Name                             | Live Demo                                                   | Code Repository                                               | Description                                        |  
-|----|------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------|  
-| 1  | **Portfolio Website**                    | [Visit](https://saicharan-portfolio-v-2.vercel.app/ )        | [Code](https://github.com/saicharan-bhuthkuri/Portfolio)       | My personal developer portfolio.                  |  
-| 2 | **Saivortex Website**                    | [Visit](https://saivortex.netlify.app/)         | [Code](https://github.com/saicharan-bhuthkuri/saivortex)       | official website.                                             |
-| 3  | **Sai Organix**                          | [Visit](https://saiorganix.netlify.app/)                   | [Code](https://github.com/saicharan-bhuthkuri/SaiOrganix)      | Organic products e-commerce site.                 |  
-| 4  | **Sai Wishes**                           | [Visit](https://sai-wishes.netlify.app/)                   | [Code](https://github.com/saicharan-bhuthkuri/Wishes)          | Personalized greeting card generator.             |  
-| 5  | **Sai Elite**                            | [Visit](https://saielite.netlify.app/)                     | [Code](https://github.com/saicharan-bhuthkuri/Website-SaiElite)| Modern brand landing page.                        |  
-
-
----
-## 💡 Tech Stack  
-
-- **Languages:** Python, JavaScript (ES6+), C, Lua, HTML5, CSS3  
-- **Frontend Development:** HTML5, CSS3, JavaScript, Bootstrap, CSS Animations, Responsive Design  
-- **Backend & Scripting:** Node.js (basic), Express.js (optional REST APIs), Lua (Termux automation), Shell Scripting  
-- **Databases:** MySQL (basic), MongoDB (optional for future scaling)  
-- **Automation & DevOps:** Termux, Git, GitHub, Netlify, Vercel  
-- **Cloud & Hosting:** Netlify (static sites), Vercel (front/backends), Render (future backend)  
-- **Tools & Platforms:** VSCode, Postman, GitHub, Canva, Figma  
-- **Core Concepts:** Web Development, Responsive UI/UX, Software Development Principles, Basic AI/ML (learning), System Design (learning)  
+Current Focus:
+  - Building Real-World Products
+  - Open Source Contributions
+  - Scalable Architectures
 
 ---
 
-## 🌐 Connect with Me  
-- **Website:** [https://saivortex.netlify.app](https://saivortex.netlify.app)
-- **Portfolio:** [sai-charan-portfolio.netlify.app](https://sai-charan-portfolio.netlify.app/)  
-- **GitHub:** [saicharan-bhuthkuri](https://github.com/saicharan-bhuthkuri)
-- **LinkedIn:** .[saicharan-bhuthkuri](https://www.linkedin.com/in/saicharan-bhuthkuri)
-- **Email:** [saicharanbhuthkuri468@gmail.com](mailto:saicharanbhuthkuri468@gmail.com)  
-- **Work mail:** [saivortex.dev@gmail.com](mailto:saivortex@gmail.com)
+🌐 Connect With Me
 
+<p align="center"><a href="https://saivortex.netlify.app">
+<img src="https://img.shields.io/badge/🚀_SaiVortex-Website-00C2FF?style=for-the-badge"/>
+</a><a href="https://sai-charan-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/💼_Portfolio-Visit-7C3AED?style=for-the-badge"/>
+</a><a href="https://charan-sketches.vercel.app">
+<img src="https://img.shields.io/badge/🎨_Charan_Sketches-Art_Portfolio-FF6B6B?style=for-the-badge"/>
+</a><a href="https://github.com/saicharan-bhuthkuri">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a><a href="https://www.linkedin.com/in/saicharan-bhuthkuri">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a><a href="https://instagram.com/life.of.charan">
+<img src="https://img.shields.io/badge/life.of.charan-E4405F?style=for-the-badge&logo=instagram"/>
+</a><a href="https://instagram.com/charan.sketches">
+<img src="https://img.shields.io/badge/charan.sketches-FF6B6B?style=for-the-badge&logo=instagram"/>
+</a></p>
+
+⚡ Tech Arsenal
+
+<p align="center"><img src="https://skillicons.dev/icons?i=python,javascript,c,lua,html,css,nodejs,express,mongodb,mysql,git,github,vscode,vercel,netlify,figma" /></p>---
+
+🔥 Featured Projects
+
+<div align="center">Project| Description| Tech
+🚀 SaiVortex| Software Solutions Platform| HTML • CSS • JS
+🌱 Sai Organix| Organic E-Commerce Website| HTML • CSS • JS
+🎉 Sai Wishes| Greeting Card Generator| JavaScript
+💼 Portfolio Website| Personal Developer Portfolio| React
+✨ Sai Elite| Modern Brand Landing Page| HTML • CSS
+
+</div>---
+
+📊 GitHub Analytics
+
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=saicharan-bhuthkuri&show_icons=true&theme=tokyonight&hide_border=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharan-bhuthkuri&layout=compact&theme=tokyonight&hide_border=true"/></div><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saicharan-bhuthkuri&theme=tokyonight&hide_border=true"/></div>---
+
+🏆 GitHub Trophies
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=saicharan-bhuthkuri&theme=tokyonight&no-frame=true&row=1&column=7"/></div>---
+
+📈 Contribution Activity
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=saicharan-bhuthkuri&theme=tokyo-night&hide_border=true"/></div>---
+
+🎯 2026 Goals
+
+✅ Build SaaS Products
+
+✅ Grow SaiVortex
+
+✅ Master Backend Development
+
+✅ Contribute to Open Source
+
+✅ Become an AI Engineer
+
+✅ Launch More Real-World Projects
+
+---
+
+<div align="center">💡 "Turning Ideas Into Software Solutions"
+
+⭐ If you like my work, consider following my journey.
+
+</div>
