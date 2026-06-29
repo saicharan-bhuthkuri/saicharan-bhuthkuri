@@ -5,7 +5,7 @@
 🚀 About Me
 
 Name: Saicharan Bhuthkuri
-Role: Software Engineer
+Role: Web Developer
 Education: B.Tech AI & ML
 Company: SaiVortex (Founder)
 Location: India
