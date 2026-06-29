@@ -29,7 +29,7 @@ Current Focus:
 
 <p align="center"><a href="https://saivortex.netlify.app">
 <img src="https://img.shields.io/badge/🚀_SaiVortex-Website-00C2FF?style=for-the-badge"/>
-</a><a href="https://sai-charan-portfolio.netlify.app">
+</a><a href="https://saicharan-portfolio-v-2.vercel.app">
 <img src="https://img.shields.io/badge/💼_Portfolio-Visit-7C3AED?style=for-the-badge"/>
 </a><a href="https://charan-sketches.vercel.app">
 <img src="https://img.shields.io/badge/🎨_Charan_Sketches-Art_Portfolio-FF6B6B?style=for-the-badge"/>
